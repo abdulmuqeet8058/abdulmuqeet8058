@@ -1,5 +1,15 @@
-# 💫 About Me:
-I’m a Flutter Mobile App Developer with more than two years of experience building production-ready, cross-platform applications and scalable backend integrations.<br><br>My experience spans government systems, workforce management, HR technology, fintech, and healthtech. I have architected Flutter applications from scratch, delivered applications to the Google Play Store.<br><br>I specialize in Flutter, Dart, responsive UI development, state management, API integration, and performance optimization. My work includes Bricks-powered offline-first functionality, MVC architecture, custom data synchronization, internet-aware API Interceptors, secure multipart file uploads, role-based access control, dynamic dashboards, PDF document management, push notifications, and third-party SDK integrations.<br><br>I have also implemented real-time communication using Firebase and WebSockets, including one-to-one messaging, group chat, and video calling with ZegoCloud. Additionally, I have experience developing AI-powered chatbots using OpenAI key, Retrieval-Augmented Generation, and vector databases.<br><br>On the backend, I work with Node.js, Express.js, Python, FastAPI, MongoDB, RESTful APIs, WebSockets, web scraping, and JWT authentication. Through performance-focused development, I have reduced API latency by 15% and improved Flutter frame-rendering efficiency by 30%.<br><br>I value clean architecture, maintainable code, ownership, clear communication, and continuous learning. I enjoy solving complex problems, improving legacy applications, and collaborating with teams to deliver reliable software that creates meaningful value for users.<br><br>I’m open to remote Flutter and mobile application development opportunities where I can contribute, grow, and build impactful products.
+## Hi, I’m Abdul Muqeet 👋
+
+I’m a Flutter Mobile App Developer with 2+ years of experience building production-ready cross-platform applications across government, workforce management, HR technology, fintech, and healthtech.
+
+I specialize in Flutter, Dart, responsive UI development, state management, REST API integration, offline-first architecture, and performance optimization. My experience includes Firebase and WebSocket communication, role-based access control, secure file uploads, dynamic dashboards, push notifications, PDF management, and third-party SDK integrations.
+
+I also build backend services using Node.js, Express.js, Python, FastAPI, MongoDB, WebSockets, and JWT authentication. Additionally, I have developed AI-powered chatbots using the OpenAI API, Retrieval-Augmented Generation, and vector databases.
+
+I enjoy improving legacy applications, solving complex engineering problems, and building reliable software with clean, maintainable architecture.
+
+🌍 Open to remote Flutter and Mobile App Developer opportunities.
+
 
 
 ## 🌐 Socials:
