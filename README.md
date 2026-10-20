@@ -22,8 +22,6 @@ I enjoy improving legacy applications, solving complex engineering problems, and
 ![](https://streak-stats.demolab.com/?user=abdulmuqeet8058&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=abdulmuqeet8058&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=abdulmuqeet8058&theme=radical&no-frame=false&no-bg=true&margin-w=4)
