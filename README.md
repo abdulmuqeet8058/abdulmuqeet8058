@@ -1,6 +1,6 @@
 ## Hi, I’m Abdul Muqeet 👋
 
-I’m a Flutter Mobile App Developer with 2+ years of experience building production-ready cross-platform applications across government, workforce management, HR technology, fintech, and healthtech. I have worked on 7 production apps which includes complete from scratch deployment and release major updates to the apps. I can provide the verifieable links of that apps also.
+I’m a Flutter Mobile App Developer with 2+ years of experience building production-ready cross-platform applications across government, workforce management, HR technology, fintech, and healthtech. I have worked on 7 production apps which includes complete from scratch deployment and release major updates to the apps. I can provide the verifieable links of that apps also if contacted through my socials.
 
 I specialize in Flutter, Dart, responsive UI development, state management, REST API integration, offline-first architecture, and performance optimization. My experience includes Firebase and WebSocket communication, role-based access control, secure file uploads, dynamic dashboards, push notifications, PDF management, and third-party SDK integrations.
 
